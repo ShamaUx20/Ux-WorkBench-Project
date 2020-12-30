@@ -1,2 +1,5 @@
-### Unix WorkBench Project
-## Peer graded Project
+# The Unix Workbench
+## Peer graded project - the guessinggame
+#### The project makefile was run on 
+#####the number of lines in the program guessinggame.sh -> 
+33
